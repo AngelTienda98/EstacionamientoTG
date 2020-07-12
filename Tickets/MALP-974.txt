@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MALP-974
+	TIPO VEHICULO: Motocicleta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 7
+	FECHA: 2020/06/26
+	HORA ENTRADA: 20:54:47
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

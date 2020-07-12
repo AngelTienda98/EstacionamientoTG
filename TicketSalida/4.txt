@@ -1,0 +1,16 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-91LP3R
+	FECHA: 2020-06-06
+	HORA DE ENTRADA: 02:29:24
+	HORA SALIDA: 02:40:31
+	COSTO: 16
+	LUGAR: 
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Motocicleta
+	TOTAL: 	$ 20   IVA: 
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

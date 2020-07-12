@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MLP-67S4
+	TIPO VEHICULO: Camioneta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 10
+	FECHA: 2020/06/19
+	HORA ENTRADA: 19:45:59
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

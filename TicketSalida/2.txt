@@ -1,0 +1,16 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-PO98IÑL
+	FECHA: 2020-06-06
+	HORA DE ENTRADA: 02:28:28
+	HORA SALIDA: 02:40:31
+	COSTO: 16
+	LUGAR: 
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Camioneta
+	TOTAL: 	$ 20   IVA: 
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

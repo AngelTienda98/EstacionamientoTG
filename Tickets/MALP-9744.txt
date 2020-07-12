@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MALP-9744
+	TIPO VEHICULO: Camioneta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 4
+	FECHA: 2020/06/26
+	HORA ENTRADA: 20:57:33
+	DESCUENTO: 10%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

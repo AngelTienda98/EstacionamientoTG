@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-91LP3R
+	TIPO VEHICULO: Motocicleta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 1
+	FECHA: 2020/06/06
+	HORA ENTRADA: 02:29:24
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

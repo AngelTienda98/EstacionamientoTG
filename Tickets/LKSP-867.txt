@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: LKSP-867
+	TIPO VEHICULO: Camioneta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 10
+	FECHA: 2020/06/26
+	HORA ENTRADA: 21:40:35
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

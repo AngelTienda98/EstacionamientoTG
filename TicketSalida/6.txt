@@ -1,0 +1,16 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: LKSP-867
+	FECHA: 2020-06-26
+	HORA DE ENTRADA: 21:40:35
+	HORA SALIDA: 21:42:57
+	COSTO: 16
+	LUGAR: 10
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Camioneta
+	TOTAL: 	$ 16   IVA: 
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

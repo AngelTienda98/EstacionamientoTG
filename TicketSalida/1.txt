@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-A98AT30G
+	FECHA: 2020-06-06
+	HORA DE ENTRADA: 02:17:12
+	HORA SALIDA: 02:18:54
+	COSTO: 10
+	LUGAR: 1
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Motocicleta
+	TOTAL: 	$10
+	----------------------------
+	GRUPO COLEGIO MEXIQUENSE

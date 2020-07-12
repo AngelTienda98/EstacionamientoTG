@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-PO98IÑL
+	TIPO VEHICULO: Camioneta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 10
+	FECHA: 2020/06/06
+	HORA ENTRADA: 02:28:28
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

@@ -1,0 +1,16 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MLP-67S4
+	FECHA: 2020-06-19
+	HORA DE ENTRADA: 19:45:59
+	HORA SALIDA: 19:48:07
+	COSTO: 16
+	LUGAR: 
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Camioneta
+	TOTAL: 	$ 1500   IVA: 
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

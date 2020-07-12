@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: MX-987LOP
+	TIPO VEHICULO: Automovil
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 5
+	FECHA: 2020/06/06
+	HORA ENTRADA: 02:28:55
+	DESCUENTO: 10%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+
