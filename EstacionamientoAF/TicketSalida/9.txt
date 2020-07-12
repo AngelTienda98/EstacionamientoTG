@@ -1,0 +1,16 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: JPG-447F
+	FECHA: 2020-07-12
+	HORA DE ENTRADA: 11:38:29
+	HORA SALIDA: 11:41:30
+	COSTO: 16
+	LUGAR: 1
+	ESTACIONAMIENTO: Estacionamiento1
+	VEHICULO: Motocicleta
+	TOTAL: 	$ 16   IVA: 
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+

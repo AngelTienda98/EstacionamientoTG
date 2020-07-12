@@ -12,9 +12,9 @@ import javax.swing.JOptionPane;
 //CLASE PARA DEFINIR LA CONEXION JAVA - MYSQL
 public class getConexion {
     //VARIABLES GLOBALES
-    private static final String user="a6352c_estacio"; //Usuario AppServer
-    private static final String pas="admin1234"; //Contraseña AppServer
-    private static final String url="jdbc:mysql://mysql5014.site4now.net/db_a6352c_estacio"; //Conexion con la libreria JDBC y MYSQL en la ruta. Estacion es el nombre DataBase
+    private static final String user="Tu_usuario"; //Usuario
+    private static final String pas="Tu_contraseña"; //Contraseña
+    private static final String url="jdbc:mysql://Tu_sitio/Tu_DataBase"; //Conexion con la libreria JDBC y MYSQL en la ruta. Estacion es el nombre DataBase
   //  PreparedStatement ps; //Variable PrepareDStatement
   //  ResultSet rs; //Variable ResiltSet 
     

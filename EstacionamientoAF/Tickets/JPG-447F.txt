@@ -1,0 +1,14 @@
+	----------------------------
+	ESTACIONAMIENTO AF
+	----------------------------
+	PLACA: JPG-447F
+	TIPO VEHICULO: Motocicleta
+	ESTACIONAMIENTO : Estacionamiento1
+	LUGAR: 1
+	FECHA: 2020/07/12
+	HORA ENTRADA: 11:38:29
+	DESCUENTO: 0%
+	----------------------------
+	ESTADO DE MEXICO, TOLUCA 50200
+	----------------------------
+
