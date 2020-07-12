@@ -14,7 +14,7 @@ public class getConexion {
     //VARIABLES GLOBALES
     private static final String user="Tu_usuario"; //Usuario
     private static final String pas="Tu_contraseña"; //Contraseña
-    private static final String url="jdbc:mysql://Tu_sitio/Tu_DataBase"; //Conexion con la libreria JDBC y MYSQL en la ruta. Estacion es el nombre DataBase
+    private static final String url="jdbc:mysql://Tu_sitio/Tu_DataBasee"; //Conexion con la libreria JDBC y MYSQL en la ruta. Estacion es el nombre DataBase
   //  PreparedStatement ps; //Variable PrepareDStatement
   //  ResultSet rs; //Variable ResiltSet 
     
